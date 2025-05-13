@@ -1,5 +1,5 @@
 # python-library-s
-Data science using pyhton library 's
+Data science using python library 's
 
 PANDAS library 
 
